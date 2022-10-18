@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="left">
+  <a href="https://steamcommunity.com/id/vozdyx"><img src="https://img.shields.io/badge/Steam-333?style=for-the-badge&logo=steam"></a>
+  <a href="https://discord.com/users/354476778724524033"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href = "mailto:vozdyx.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
 - 🔭 I’m currently working on [FairGame.pro](https://fairgame.pro)
 - 🌱 I’m currently learning Kotlin <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/32px-Kotlin_Icon.svg.png" width="16">
 
