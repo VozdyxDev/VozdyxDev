@@ -11,6 +11,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/db69c41a-bf5e-44b3-8fb2-76b185b354a5.svg)](https://wakatime.com/@db69c41a-bf5e-44b3-8fb2-76b185b354a5)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VozdyxDev&show_icons=true&theme=github_dark)](https://github.com/VozdyxDev)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VozdyxDev&show_icons=true&theme=github_dark)](https://github.com/VozdyxDev)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vozdyx&theme=github_dark)](https://wakatime.com/@Vozdyx)
