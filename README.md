@@ -13,6 +13,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/db69c41a-bf5e-44b3-8fb2-76b185b354a5.svg)](https://wakatime.com/@Vozdyx)
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VozdyxDev&show_icons=true&theme=github_dark&hide_title=false&layout=compact)](https://github.com/VozdyxDev)[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=VozdyxDev&show_icons=true&theme=github_dark&hide_title=false&layout=compact&langs_count=7)](https://github.com/VozdyxDev)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VozdyxDev&show_icons=true&theme=github_dark&hide_title=false&layout=compact&count_private=true)](https://github.com/VozdyxDev)[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=VozdyxDev&show_icons=true&theme=github_dark&hide_title=false&layout=compact&langs_count=7)](https://github.com/VozdyxDev)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vozdyx&theme=github_dark&hide_title=false&layout=compact)](https://wakatime.com/@Vozdyx)
+[![willianrod's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=Vozdyx&theme=github_dark&hide_title=false&layout=compact)](https://wakatime.com/@Vozdyx)
